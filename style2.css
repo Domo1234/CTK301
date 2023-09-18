@@ -1,0 +1,61 @@
+a:link{
+    color: rgb(25, 25, 255);
+    text-decoration: none;
+}
+
+a{ 
+    color: rgb(38, 169, 21);
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+header {
+    background-color: #868aef;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    background-color: yellow
+}
+
+h4 {
+    color:yellow;
+    background-color: green;
+    
+}
+
+h5 {
+    color: red;
+}
+
+#taxi {
+    color: red;
+}
+
+#doctor{
+    text-decoration: dashed;
+    color: orange;
+}
+
+#art {
+    background-color: rgb(110, 210, 110);
+}
+
+footer {
+    background-color: yellow;
+}
+
+#him {
+    color: blue;
+}
