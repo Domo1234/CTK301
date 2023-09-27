@@ -1,0 +1,60 @@
+#helvetica {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    padding: 20px;
+    font-weight: 100;
+}
+
+body {
+    max-width: fit-content;
+    background-color: #0d400f;
+    background-image:url(a5bg.png)
+}
+
+nav li a{
+    padding: 10px;
+    margin: 10px;
+    width: 150px;
+    color: white;
+    background-color: rgb(0, 0, 130);
+    display: block;
+    text-decoration: none;
+}
+nav li a:hover{
+    background-color: rgb(98, 208, 255);
+}
+
+nav li {
+    display: inline-block;
+}
+
+header {
+    background-color: white;
+    word-spacing: 1px;
+    background: white;
+    padding: 1.5em 1em 1em 1.5em;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    size-adjust: 10px;
+    text-size-adjust: 10px;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: #1800ef;
+    border-color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    margin: 1em 0 1em 0;
+    padding: 2em 3em 2em 3em;
+    border: white solid 5px;
+}
+
+nav li a :hover {
+    background-color: lightblue;
+}
